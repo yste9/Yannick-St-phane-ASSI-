@@ -40,11 +40,6 @@ Dans le cadre de mon alternance, je contribue à :
 Cette expérience m’apprend à relier la qualité des données,
 les besoins métier et la prise de décision.
 
-### Brink’s France — Analyse des contrats & Pricing
-
-Une précédente expérience m’a permis de travailler sur l’analyse
-contractuelle, le contrôle de facturation, la rentabilité et le pricing,
-avec plus de 270 contrats traités.
 
 ## 🚀 Mes projets
 
